@@ -16,7 +16,7 @@ TDD Kata Calculator example for Luizalabs.
 
 7. Numbers greater than 1000 are ignored, e.g., `calculate(1,2,3,1000,1001) = 1006`
 
-#Extras
+### Extras
 
 8. A single char delimiter can be defined on the first line, e.g., `calculate(//#3#6#11) = 20`
 
